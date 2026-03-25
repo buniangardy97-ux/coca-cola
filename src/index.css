@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coke-red: #F40009;
+  --color-ice-white: #FFFFFF;
+  --color-carbonated-black: #111111;
+}
